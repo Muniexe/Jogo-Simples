@@ -5,7 +5,6 @@ Jogo Feito Por Eduardo Muniz
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jogo Basico, Para Portifolio</title>
 </head>
 <body>
   <h1>Jogo Simples em HTML, CSS e JavaScript</h1>
