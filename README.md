@@ -1,11 +1,11 @@
 # Quadrado
-Jogo Feito No GameMaker
+Jogo Feito Por Eduardo Muniz
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Descrição do Projeto</title>
+  <title>Jogo Basico, Para Portifolio</title>
 </head>
 <body>
   <h1>Jogo Simples em HTML, CSS e JavaScript</h1>
