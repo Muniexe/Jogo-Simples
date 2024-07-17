@@ -29,7 +29,7 @@ Jogo Feito Por Eduardo Muniz
   <h2>Contribuições:</h2>
   <p>Contribuições são bem-vindas! Sinta-se à vontade para melhorar este jogo, adicionar novas funcionalidades ou corrigir eventuais problemas.</p>
 </body>
-</html>]
+</html>
 
 (https://github.com/Muniexe/Jogo-Simples/blob/master/img/Captura%20de%20tela%202024-07-17%20114943.png)
 
