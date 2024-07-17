@@ -1,56 +1,34 @@
 # Quadrado
 Jogo Feito No GameMaker
-
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jogo Simples</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
-    h1 {
-      color: #333;
-    }
-    button {
-      padding: 10px 20px;
-      font-size: 16px;
-      margin: 10px;
-      cursor: pointer;
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      border-radius: 4px;
-      transition: background-color 0.3s;
-    }
-    button:hover {
-      background-color: #45a049;
-    }
-  </style>
+  <title>Descrição do Projeto</title>
 </head>
 <body>
-  <h1>Jogo Simples</h1>
+  <h1>Jogo Simples em HTML, CSS e JavaScript</h1>
   
-  <p>Pressione o botão para jogar:</p>
+  <h2>Funcionalidades:</h2>
+  <ul>
+    <li><strong>Jogo de Adivinhação:</strong> O jogador deve adivinhar um número aleatório de 1 a 10 gerado pelo computador.</li>
+    <li><strong>Interatividade:</strong> Utiliza JavaScript para interação com o usuário através de prompts e exibe o resultado na página.</li>
+    <li><strong>Estilização Simples:</strong> Utiliza CSS para estilizar a página e o botão de jogar.</li>
+  </ul>
   
-  <button onclick="jogar()">Jogar</button>
+  <h2>Como Jogar:</h2>
+  <ol>
+    <li>Clique no botão "Jogar".</li>
+    <li>Um prompt será exibido solicitando que você adivinhe o número de 1 a 10.</li>
+    <li>Após inserir seu palpite, o jogo informará se você acertou ou não.</li>
+  </ol>
   
-  <p id="resultado"></p>
+  <h2>Motivação:</h2>
+  <p>Este projeto foi criado como um exemplo simples para demonstrar como é possível desenvolver jogos básicos usando HTML, CSS e JavaScript. É adequado para iniciantes que estão aprendendo a criar conteúdo interativo na web.</p>
   
-  <script>
-    function jogar() {
-      var numeroAleatorio = Math.floor(Math.random() * 10) + 1;
-      var chute = prompt("Adivinhe o número de 1 a 10:");
-      chute = parseInt(chute);
-      
-      if (chute === numeroAleatorio) {
-        document.getElementById("resultado").innerHTML = "Parabéns! Você acertou!";
-      } else {
-        document.getElementById("resultado").innerHTML = "Que pena! O número correto era " + numeroAleatorio + ".";
-      }
-    }
-  </script>
+  <h2>Contribuições:</h2>
+  <p>Contribuições são bem-vindas! Sinta-se à vontade para melhorar este jogo, adicionar novas funcionalidades ou corrigir eventuais problemas.</p>
 </body>
 </html>
+
