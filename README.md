@@ -31,5 +31,5 @@ Jogo Feito Por Eduardo Muniz
 </body>
 </html>]
 
-![Descrição da Imagem](caminho/para/imagem.png](https://github.com/Muniexe/Jogo-Simples/blob/master/img/Captura%20de%20tela%202024-07-17%20114943.png)
+(https://github.com/Muniexe/Jogo-Simples/blob/master/img/Captura%20de%20tela%202024-07-17%20114943.png)
 
