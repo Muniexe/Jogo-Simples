@@ -1,4 +1,4 @@
-# Quadrado
+# Adivinhe o Numero
 Jogo Feito Por Eduardo Muniz
 <!DOCTYPE html>
 <html lang="pt-br">
